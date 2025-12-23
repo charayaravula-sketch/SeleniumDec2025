@@ -1,0 +1,6 @@
+com\cyclose\pages\cyclose_pages.class
+step_deffination\Cyclose_Logintestscript.class
+com\cyclose\pages\Cyclose_QRPages.class
+step_deffination\Cyclose_Hooks.class
+step_deffination\TestRunner1.class
+step_deffination\Cyclose_QRTestScript.class
